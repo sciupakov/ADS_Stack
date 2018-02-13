@@ -1,0 +1,42 @@
+﻿  CustomStack.cpp
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(9): error C2988: unrecognizable template declaration/definition
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(9): error C2143: syntax error: missing ';' before '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(9): error C2059: syntax error: '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(9): error C2039: 'CustomStack': is not a member of '`global namespace''
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(10): error C2143: syntax error: missing ';' before '{'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(10): error C2447: '{': missing function header (old-style formal list?)
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(20): error C2988: unrecognizable template declaration/definition
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(20): error C2143: syntax error: missing ';' before '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(20): error C2059: syntax error: '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(20): error C2039: 'CustomStack': is not a member of '`global namespace''
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(21): error C2143: syntax error: missing ';' before '{'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(21): error C2447: '{': missing function header (old-style formal list?)
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): error C2988: unrecognizable template declaration/definition
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): error C2143: syntax error: missing ';' before '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): error C2182: 'CustomStack': illegal use of type 'void'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): error C2059: syntax error: '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): error C2039: 'Push': is not a member of '`global namespace''
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(28): error C2143: syntax error: missing ';' before '{'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(28): error C2447: '{': missing function header (old-style formal list?)
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(46): error C2988: unrecognizable template declaration/definition
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(46): error C2143: syntax error: missing ';' before '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(46): error C2371: 'CustomStack': redefinition; different basic types
+  d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): note: see declaration of 'CustomStack'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(46): error C2059: syntax error: '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(46): error C2039: 'Pop': is not a member of '`global namespace''
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(47): error C2143: syntax error: missing ';' before '{'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(47): error C2447: '{': missing function header (old-style formal list?)
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(59): error C2988: unrecognizable template declaration/definition
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(59): error C2143: syntax error: missing ';' before '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(59): error C2182: 'CustomStack': illegal use of type 'void'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(59): error C2374: 'CustomStack': redefinition; multiple initialization
+  d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(27): note: see declaration of 'CustomStack'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(59): error C2059: syntax error: '<'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(59): error C2039: 'Display': is not a member of '`global namespace''
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(60): error C2143: syntax error: missing ';' before '{'
+d:\git\ads_stack\ads_stack\ads_stack\customstack.cpp(60): error C2447: '{': missing function header (old-style formal list?)
+  ADS_Stack.cpp
+d:\git\ads_stack\ads_stack\ads_stack\ads_stack.cpp(13): error C2664: 'CustomStack<int>::CustomStack(const CustomStack<int> &)': cannot convert argument 1 from 'int' to 'const CustomStack<int> &'
+  d:\git\ads_stack\ads_stack\ads_stack\ads_stack.cpp(13): note: Reason: cannot convert from 'int' to 'const CustomStack<int>'
+  d:\git\ads_stack\ads_stack\ads_stack\ads_stack.cpp(13): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  Generating Code...
